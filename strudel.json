@@ -1,19 +1,18 @@
 {
-    "_base": "https://raw.githubusercontent.com/realdreian/dreian-sample/main/",
   "dreian_808": [
-    "808/808_Db.wav"
+    "https://raw.githubusercontent.com/realdreian/dreian-sample/main/808/808_Db.wav"
   ],
   "dreian_kick": [
-    "kick/Kick- LET'S GO 4_Dbm.wav"
+    "https://raw.githubusercontent.com/realdreian/dreian-sample/main/kick/Kick-%20LET%27S%20GO%204_Dbm.wav"
   ],
   "dreian_melody": [
-    "melody/brazil-funk-keys-part3_E.wav",
-    "melody/brazilian-brass-trumpets-melody-maseli-sample_Dbm.wav"
+    "https://raw.githubusercontent.com/realdreian/dreian-sample/main/melody/brazil-funk-keys-part3_E.wav",
+    "https://raw.githubusercontent.com/realdreian/dreian-sample/main/melody/brazilian-brass-trumpets-melody-maseli-sample_Dbm.wav"
   ],
   "dreian_perc": [
-    "perc/Atabaques - 2k24_Dbm.wav"
+    "https://raw.githubusercontent.com/realdreian/dreian-sample/main/perc/Atabaques%20-%202k24_Dbm.wav"
   ],
   "dreian_snare": [
-    "snare/Snare_Db.wav"
+    "https://raw.githubusercontent.com/realdreian/dreian-sample/main/snare/Snare_Db.wav"
   ]
 }
